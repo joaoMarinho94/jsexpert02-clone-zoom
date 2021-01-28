@@ -1,3 +1,20 @@
+aula 1
+
 Usado padrão de projetos Builder
 
-Objetivo de construir objetos sobe demanda. Gera a instancia propriamente dita, ele que ira delegar os eventos e pegar os objetos setados.
+Objetivo de construir objetos sobe demanda. Gera a instancia propriamente dita, 
+ele que ira delegar os eventos e pegar os objetos setados.
+
+Aqui você vai conhecer os Design Patterns Builder, Dependency Injection e Event 
+Delegation além de princípios de encapsulamento, responsabilidade única e muito mais!
+
+Você vai obter o aúdio e vídeo dos usuarios a partir da API do Browser a 
+getUserMedia além de criar salas de conferencias para multi-usuários.
+
+
+
+aula 2
+
+Nesta aula vamos conhecer as mágicas do WebRTC e como é a arquitetura e 
+infraestrutura por trás tecnologia, configurar eventos importantes durante a 
+chamada, usar o padrão builder para configurar mais eventos, e muito mais.
