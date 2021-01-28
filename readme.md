@@ -1,3 +1,18 @@
-Usado padrão de projetos Builder
+# Projeto base da JS Expert Week 2.0
 
-Objetivo de construir objetos sobe demanda. Gera a instancia propriamente dita, ele que ira delegar os eventos e pegar os objetos setados.
+- Acesse o [home](./pages/home/index.html) para acessar a home page
+- Acesse o [room](./pages/room/index.html) uma room específica
+
+## Home Page
+
+![home page](./prints/home.png)
+
+## Room
+
+![room](./prints/room.png)
+
+### Créditos
+
+- Layout da home foi baseada no codepen do [Nelson Adonis Hernandez
+](https://codepen.io/nelsonher019/pen/eYZBqOm)
+- Layout da room foi adaptado a partir do repo do canal [CleverProgrammers](https://github.com/CleverProgrammers/nodejs-zoom-clone/blob/master/views/room.ejs)
